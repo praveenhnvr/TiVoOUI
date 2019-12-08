@@ -1,0 +1,30 @@
+12/08/2019 02:07:17 PM - LoginPage - INFO: Element Found with locator: txtUsername and  locatorType: id
+12/08/2019 02:07:17 PM - LoginPage - INFO: Sent data on element with locator: txtUsername locatorType: id
+12/08/2019 02:07:17 PM - LoginPage - INFO: Element Found with locator: txtPassword and  locatorType: id
+12/08/2019 02:07:17 PM - LoginPage - INFO: Sent data on element with locator: txtPassword locatorType: id
+12/08/2019 02:07:17 PM - LoginPage - INFO: Element Found with locator: btnLogin and  locatorType: id
+12/08/2019 02:07:18 PM - LoginPage - INFO: Clicked on element with locator: btnLogin locatorType: id
+12/08/2019 02:07:18 PM - LoginPage - INFO: Element Found with locator: txtUsername and  locatorType: id
+12/08/2019 02:07:18 PM - LoginPage - INFO: Element Found with locator: //span[text()='Invalid credentials'] and  locatorType: xpath
+12/08/2019 02:07:18 PM - LoginPage - INFO: Element Found
+12/08/2019 02:07:18 PM - LoginPage - INFO: Element Found with locator: txtUsername and  locatorType: id
+12/08/2019 02:07:19 PM - LoginPage - INFO: Sent data on element with locator: txtUsername locatorType: id
+12/08/2019 02:07:19 PM - LoginPage - INFO: Element Found with locator: txtPassword and  locatorType: id
+12/08/2019 02:07:19 PM - LoginPage - INFO: Sent data on element with locator: txtPassword locatorType: id
+12/08/2019 02:07:19 PM - LoginPage - INFO: Element Found with locator: btnLogin and  locatorType: id
+12/08/2019 02:07:21 PM - LoginPage - INFO: Clicked on element with locator: btnLogin locatorType: id
+12/08/2019 02:07:21 PM - Util - INFO: Actual Text From Application Web UI --> :: OrangeHRM
+12/08/2019 02:07:21 PM - Util - INFO: Expected Text From Application Web UI --> :: opensource
+12/08/2019 02:07:21 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+12/08/2019 02:07:21 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verification
+12/08/2019 02:07:25 PM - TestStatus - INFO: Screenshot save to directory:C:\PythonWorkspace\OverrideUI\root\../screenshots/Title Verification.1575794241252.png
+12/08/2019 02:07:25 PM - LoginPage - INFO: Element Found with locator: //a[@id='welcome'] and  locatorType: xpath
+12/08/2019 02:07:25 PM - LoginPage - INFO: Element Found
+12/08/2019 02:07:30 PM - LoginPage - INFO: Element Found with locator: //a[@id='welcome'] and  locatorType: xpath
+12/08/2019 02:07:30 PM - LoginPage - INFO: Element Found
+12/08/2019 02:07:30 PM - LoginPage - INFO: Element Found with locator: //a[@id='welcome'] and  locatorType: xpath
+12/08/2019 02:07:30 PM - LoginPage - INFO: Clicked on element with locator: //a[@id='welcome'] locatorType: xpath
+12/08/2019 02:07:30 PM - LoginPage - INFO: Element Found with locator: //a[text()='Logout'] and  locatorType: xpath
+12/08/2019 02:07:32 PM - LoginPage - INFO: Clicked on element with locator: //a[text()='Logout'] locatorType: xpath
+12/08/2019 02:07:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + login was not successful
+12/08/2019 02:07:37 PM - TestStatus - ERROR: test_vaildLogin ### TEST FAILED
